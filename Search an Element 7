@@ -31,8 +31,6 @@ public class SearchElementInArray {
         } else {
             System.out.println(target + " is not presented in an array.");
         }
-
-        scanner.close();
     }
 }
 

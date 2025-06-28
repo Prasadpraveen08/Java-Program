@@ -34,7 +34,5 @@ public class KLargestElements {
         for (int i = size - 1; i >= size - k; i--) {
             System.out.print(arr[i] + " ");
         }
-
-        scanner.close();
     }
 }
